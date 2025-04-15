@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734725107 source:c:\users\maha\documents\studentgrademanagementsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
